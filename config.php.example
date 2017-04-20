@@ -1,0 +1,14 @@
+<?php
+
+return [
+    "gmail" => [
+        "username" => "",
+        "password" => ""
+    ],
+    "sender" => [
+        "email" => "",
+        "name" => ""
+    ],
+    'subject' => ''
+
+];
